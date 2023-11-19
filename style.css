@@ -1,0 +1,86 @@
+body {
+  background: linear-gradient(to bottom, #f5f5f5, #add8e6);
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f5f5f5;
+  text-align: center;
+  padding: 10px;
+}
+
+header img {
+  max-width: 200px;
+  max-height: 100px;
+  width: auto;
+  height: auto;
+}
+
+
+main {
+  background-color: #add8e6;
+  padding: 20px;
+}
+.indice-container {
+  border: 2px solid #ccc; /* Añade un borde de 2 píxeles sólido en color gris claro */
+  padding: 10px; /* Añade espacio alrededor del contenido dentro del contenedor */
+  background-color: #f9f9f9; /* Añade un color de fondo */
+  border-radius: 10px; /* Añade esquinas redondeadas */
+  margin-bottom: 20px; /* Añade espacio debajo del contenedor */
+}
+
+
+button {
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+footer {
+  background-color: rgba(245, 245, 245, 0.7); /* Color ligeramente transparente */
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+
+/* */
+.section-container {
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.dividir {
+  border: 1px solid #ccc;
+  margin-top: 20px; 
+  margin-bottom: 20px;
+}
+
+button{
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #45a049;
+}
